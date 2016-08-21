@@ -49,7 +49,8 @@ h1{
 	text-align:center;
 	background-color:#CCEEAA;
 	padding:auto;
-	margin:10px 0px;
+	margin:10px 15px;
+	float: left;
 }
 
 table {
